@@ -14,7 +14,7 @@ require_once ('header.php');
             </li>
             
             
-        </ul>  </p>
+        </ul>  
     </div>
 </div>
 
